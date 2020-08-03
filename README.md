@@ -1,2 +1,2 @@
-# carla_things
-some code for traffic light detection
+# CARLA traffic light detection
+Function for traffic light detection in the CARLA simulator
